@@ -1,0 +1,36 @@
+Focus on the below or learn the below first 
+1. Page setp (hight, width,background color/ image, foreground color / image, border),
+
+2. Visual set up (X position, Y position, Border, Font and size, Fore ground and back ground colors,border)
+
+3. Book marks [ Page book marks)
+
+4. Actions ( button action calling book marks)
+
+5. Various visuals [Maps, Slicers [List, Button], Cards, Line Chart, Table, Area Chart]
+6. Images handling )size, width, proper adjustment...
+7.Measures in DAX
+
+    Parent measures create
+    Child measures [dependent measures]
+    Child measures [dependent measure]
+
+8. Use them on visuals
+
+9. Publish to a workspace
+
+10. Create dashboard with single tile by taking Live page [Home Page] as single tile
+
+11.  Create subscriptions or share them
+
+
+
+
+
+
+
+
+
+
+
+     
